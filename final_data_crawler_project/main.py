@@ -1,4 +1,4 @@
-from .crawler_objects import PlotEstateCrawler, AparatmentEstateCrawler, HouseEstateCrawler
+from .crawler_objects import PlotEstateCrawler, ApartmentEstateCrawler, HouseEstateCrawler
 from typing import Any, Callable, Literal
 
 def crawl_real_estate( search_text, time_limit):

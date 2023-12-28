@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from datetime import datetime
 import time
-from utils.error_handler import text_value_error_handler
-from utils.converters import convert_to_float, convert_to_int
+from ..utils.error_handler import text_value_error_handler
+from ..utils.converters import convert_to_float, convert_to_int
 from pandas import DataFrame
 from dataclasses import dataclass
 

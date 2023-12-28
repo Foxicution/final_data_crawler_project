@@ -1,3 +1,3 @@
-from .apartment_crawler import ApartmentEstateCrawler
+from .aparatment_crawler import ApartmentEstateCrawler
 from .plot_crawler import PlotEstateCrawler
 from .house_crawler import HouseEstateCrawler
